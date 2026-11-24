@@ -1,0 +1,63 @@
+{
+  "lang": "en",
+  "name": "Olympian Landscaping",
+  "initial": "O",
+  "trade": "landscaper",
+  "tradeLabel": "Garden design, landscaping & maintenance · Dublin",
+  "theme": { "mode": "light", "accent": "#3dbb46", "display": "serif", "hero": "split" },
+  "hero": {
+    "eyebrow": "Sandyford, Dublin 16",
+    "title": "Beautiful gardens,",
+    "titleEm": "designed, built and maintained.",
+    "lead": "Professional garden design, landscaping and maintenance across Dublin and neighbouring counties. We create beautiful outdoor garden space for our customers to enjoy.",
+    "image": "Olympian-Landscaping.jpg",
+    "alt": "Stone patio with garden furniture, gazebo and planted borders"
+  },
+  "rating": { "score": "5.0", "count": 21, "source": "Google" },
+  "intro": {
+    "title": "Why choose Olympian Landscaping",
+    "paragraphs": [
+      "We take great pride in our work and tackle every project with a can-do attitude. Our focus is always on quality of workmanship, customer service and affordability.",
+      "Owner Luke Doyle has worked on a broad range of projects throughout Ireland, Australia and Canada. Our team of skilled landscape gardeners and horticulturalists deals with every aspect of the garden, from planning and design to construction.",
+      "We work closely with our customers throughout a project and keep them informed as we go."
+    ],
+    "facts": ["Residential and commercial", "Dublin and neighbouring counties", "Free quote: call Luke"],
+    "image": "garden-maintenance-dublin-16.jpg",
+    "alt": "Curved garden border with yellow lilies beside a paved path"
+  },
+  "services": {
+    "title": "Everything your garden needs",
+    "items": [
+      { "title": "Design and build landscaping", "text": "Complete landscape design and construction, from the first consultation to the finished garden.", "bullets": ["Patio areas and driveways", "Retaining walls", "Planting beds, shrubs and trees", "Pathways and borders", "Instant lawns and artificial grass"] },
+      { "title": "Garden and grounds maintenance", "text": "Residential garden maintenance, and commercial grounds maintenance for apartment complexes, housing estates, business parks and rental units.", "bullets": ["Lawn cutting and lawn care", "Hedge trimming", "Fertilising and weed control", "Pressure washing patios and decking"] },
+      { "title": "Fencing", "text": "Construction and installation of pressure treated timber fencing, with timber or concrete posts.", "bullets": ["Boundary and decorative fencing", "Picket fencing and trellising", "Replacing old or fallen fencing"] },
+      { "title": "Tree surgery", "text": "Complete tree care, whatever the size of the tree.", "bullets": ["Trimming and pruning", "Tree topping and thinning", "Tree and stump removal", "All waste removed"] }
+    ]
+  },
+  "gallery": {
+    "title": "Recent projects",
+    "items": [
+      { "image": "Patio-Landscaping-Dublin.jpg", "alt": "Paved patio with seating and potted flowers", "caption": "Garden patios" },
+      { "image": "steps.jpg", "alt": "Stone steps leading to a front door", "caption": "Steps" },
+      { "image": "paver-path.jpg", "alt": "Paved path crossing a lawn to a raised tree bed", "caption": "Pathways" },
+      { "image": "picket-fence.jpg", "alt": "New timber picket fence beside a paved drive", "caption": "Fencing" },
+      { "image": "raised-flower-bed.jpg", "alt": "Stone raised flower bed with shrubs", "caption": "Planting beds" },
+      { "image": "tree-pruning.jpg", "alt": "Tree surgeon pruning a tree with ropes", "caption": "Tree surgery" }
+    ]
+  },
+  "steps": {
+    "title": "How a project works",
+    "items": [
+      { "title": "On-site consultation", "text": "We assess your garden space and discuss landscaping ideas and options, for a small or large garden." },
+      { "title": "Design and itemised quote", "text": "Drawings and hand sketches show the potential works, then an itemised quote is created for the agreed design." },
+      { "title": "Construction", "text": "Our landscape gardeners build your garden and keep you informed as we go, with a clean, professional finish." }
+    ]
+  },
+  "contact": {
+    "title": "Call Luke for a free quote",
+    "lead": "Luke is always available to discuss any project or garden ideas you may have in mind.",
+    "phones": [ { "label": "Call Luke", "display": "085 145 1758", "tel": "+353851451758" } ],
+    "email": "info@olympianlandscaping.ie",
+    "address": ["268 Wedgewood, Sandyford", "Dundrum, Dublin 16"]
+  }
+}
